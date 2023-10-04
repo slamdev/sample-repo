@@ -13,9 +13,9 @@
      'topAxis': false
     },
     'themeVariables': {
-      'activeTaskBkgColor': '#90EE90',
+      'activeTaskBkgColor': '#1E8723',
       'doneTaskBkgColor': '#0096FF',
-      'taskBkgColor': '#D3D3D3'
+      'taskBkgColor': '#5F759B'
     }
   }
 }%%
