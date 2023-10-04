@@ -1,6 +1,15 @@
 # sample-repo
 
 ```mermaid
+%%{
+  init: {
+    'themeVariables': {
+'activeTaskBkgColor': '#90EE90',
+'doneTaskBkgColor': '#0096FF',
+'taskBkgColor': '#D3D3D3'
+    }
+  }
+}%%
 gantt
     title Roadmap
     dateFormat YYYY-MM-DD
