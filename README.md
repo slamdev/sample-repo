@@ -4,10 +4,18 @@
 ```mermaid
 %%{
   init: {
+    'gantt': {
+     'fontSize': 15,
+     'barHeight': 30,
+     'barGap': 10,
+     'topPadding': 70,
+     'gridLineStartPadding': 35,
+     'topAxis': false
+    },
     'themeVariables': {
-'activeTaskBkgColor': '#90EE90',
-'doneTaskBkgColor': '#0096FF',
-'taskBkgColor': '#D3D3D3'
+      'activeTaskBkgColor': '#90EE90',
+      'doneTaskBkgColor': '#0096FF',
+      'taskBkgColor': '#D3D3D3'
     }
   }
 }%%
