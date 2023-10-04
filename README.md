@@ -25,7 +25,7 @@ gantt
     tickInterval 1month
     axisFormat %b %Y
     Example closed (100%) :done, 2023-09-01, 2023-10-10
-    One more epic (0%) : 2023-01-01, 2023-11-01
+    One more epic (0%) : 2023-10-01, 2023-11-01
     Awesome Epic 1 (33%) :active, 2023-09-01, 2024-01-01
 ```
 <!-- end roadmap -->
