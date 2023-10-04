@@ -13,7 +13,7 @@
      'topAxis': false
     },
     'themeVariables': {
-      'activeTaskBkgColor': '#1E8723',
+      'activeTaskBkgColor': '#90EE90',
       'doneTaskBkgColor': '#0096FF',
       'taskBkgColor': '#5F759B'
     }
